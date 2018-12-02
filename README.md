@@ -9,4 +9,4 @@ Microprocessor and Embedded System 2017/2
 
 # Diagram # 
 
-<a href="diagram.png"></a>
+<img src="diagram.png"></a>
