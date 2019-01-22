@@ -1,6 +1,7 @@
-# MIDI_Controller Project
+# Microprocesssor Mini_project
+**MIDI_Controller Project**
 Mbed OS by C++  
-Microprocessor and Embedded System 2017/2  
+Microprocessor and Embedded System 
 
 **Driver/Engine**  
 • STM32 DISCO-F746NG
