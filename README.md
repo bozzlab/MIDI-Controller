@@ -1,4 +1,4 @@
-# Microprocesssor Mini_project
+# Microprocessor Mini_project
 **MIDI_Controller Project**  
 Mbed OS by C++  
 Microprocessor and Embedded System 
